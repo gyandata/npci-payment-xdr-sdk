@@ -30,7 +30,7 @@ export {
 export * from "./utils";
 
 // expose classes and functions from stellar-base
-export * from "stellar-base";
+export * from "npci-payment-xdr-base";
 
 export { version };
 

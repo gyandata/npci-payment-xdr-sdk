@@ -134,6 +134,7 @@
     "detect-node": "^2.0.4",
     "es6-promise": "^4.2.4",
     "eventsource": "^1.0.7",
+    "semver": "latest",
     "lodash": "^4.17.11",
     "randombytes": "^2.1.0",
     "npci-payment-xdr-base": "git+https://github.com/gyandata/npci-payment-xdr-base",

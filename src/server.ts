@@ -3,7 +3,7 @@
 import BigNumber from "bignumber.js";
 import isEmpty from "lodash/isEmpty";
 import merge from "lodash/merge";
-import { Asset, StrKey, Transaction, xdr } from "stellar-base";
+import { Asset, StrKey, Transaction, xdr } from "npci-payment-xdr-base";
 import URI from "urijs";
 
 import { CallBuilder } from "./call_builder";

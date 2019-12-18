@@ -1,4 +1,3 @@
-import randomBytes from "randombytes";
 import {
   Account,
   BASE_FEE,
@@ -6,7 +5,8 @@ import {
   Operation,
   Transaction,
   TransactionBuilder,
-} from "stellar-base";
+} from "npci-payment-xdr-base";
+import randomBytes from "randombytes";
 import { InvalidSep10ChallengeError } from "./errors";
 
 /**

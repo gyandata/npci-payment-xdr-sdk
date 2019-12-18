@@ -1,7 +1,7 @@
 /* tslint:disable:variable-name */
 
 import forIn from "lodash/forIn";
-import { Account as BaseAccount } from "stellar-base";
+import { Account as BaseAccount } from "npci-payment-xdr-base";
 import { Omit } from "utility-types";
 import { Horizon } from "./horizon_api";
 import { ServerApi } from "./server_api";

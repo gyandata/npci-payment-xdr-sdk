@@ -1,4 +1,4 @@
-import { Asset, AssetType } from "stellar-base";
+import { Asset, AssetType } from "npci-payment-xdr-base";
 import { Omit } from "utility-types";
 import { Horizon } from "./horizon_api";
 
